@@ -1,0 +1,19 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+
+body {
+	background-color:green;
+	width:100%;}
+
+.ScrollSceneIndicators { z-index: 9999999 !important; }
+
+
+.sec1, .sec2 {
+	text-align:center;
+	height:600px;
+	margin: 200px;
+	background-color:#2687C5;
+	color:#fff;
+}
